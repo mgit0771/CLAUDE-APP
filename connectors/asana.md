@@ -2,8 +2,8 @@
 Cloud PM - tasks, projects, webhooks, agenty
 
 ## CREDENTIALS (jeszcze nie mam - czekam na PAT + workspace_gid)
-ASANA_PAT=2/1213168200814906/1213504091750932:d33f58a5a8c996d6d510b385dd64f65a
-ASANA_WORKSPACE_GID=1213168200814919
+ASANA_PAT=???
+ASANA_WORKSPACE_GID=???
 # Token: https://app.asana.com/0/my-apps -> Personal Access Token
 
 ## BASE
@@ -78,17 +78,3 @@ MCP V2:     https://developers.asana.com/docs/mcp-server
 - Rate limit: 1500 req/min dla Premium, 150 dla Free
 - Pagination: offset token w response gdy wiecej niz limit rekordow
 - Webhook wymaga publicznego URL do handshake (nie localhost)
-## MY TASKS LIST GID
-1213168204011058
-
-## SEKCJE MY TASKS
-Ostatnio przypisane - inbox (55 taskow)
-!                   - priorytety (10 taskow)
-LETTA               - (13 taskow)
-WORKFLOW            - (5 taskow)
-OPERATIONS          - (4 taskow)
-GIT, TEST, CHECK, SKILLS/CLIs, LEARN/READ, CC, ANTIGRAVITY
-
-## PROJEKTY
-GMAIL MASTER      GID: 1213381145137839
-PERPLEXITY-SPACE  GID: 1213503045487533
