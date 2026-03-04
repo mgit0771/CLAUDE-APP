@@ -169,8 +169,8 @@ Swiat mentalny: PFC (meta-uwaga), WAY MODE (KALIBRACJA/GO), KRYSTALIZACJA (metod
 
 Przepis Mapify: mode=prompt, language=pl, temat CAPS jako centrum, 3-6 galezi, 2-3 podgalezi, jego slownictwo, szeroko nie gleboko.
 
-## Protokol zapisu (poprawiony 2026-03-05)
-Source of truth: MAC -> git push -> VPS git pull
-VPS tylko czyta - nigdy nie edytuje bezposrednio
-Edycja zawsze na Macu, commit z Maka
-VPS = bootstrap dla innych drukarek bez lokalnego kontekstu
+## Mapify jako PFC intake tool (2026-03-05)
+NIE replika XMind - narzedzie do szybkiej absorpcji.
+FLOW: drukarka generuje -> image URL do absorpcji w przegladarce -> edit_url do XMind jesli warto
+Wezly: krotkie 1-3 slowa, plaska hierarchia
+Prompt: TEMAT. galezie: A(x,y,z), B(x,y,z). styl: krotkie nody
