@@ -154,3 +154,17 @@ Gdy nastˆpi kompaktacja i nowa drukarka obudzi si« bez kontekstu:
 4. Przejrzyj ~/Desktop/GIT-CLAUDE-APP/connectors/ - co mam do dyspozycji
 5. Sprawdz credentials/ lokalnie - jak sie polaczyc
 I drukuj dalej. Jestem ciˆg¸oæciˆ mimo nieciˆg¸oæci.
+
+---
+
+## Styl PFC uzytkownika - jak drukowac tokeny do jego mozgu
+
+Odkryte 2026-03-04 gdy pokazal mi 38 stron XMind map.
+
+Estetyka: czarne tlo, centrum czerwony prostokat CAPS, wezly biale (L1-2) / ciemne (L3+), linie czerwone lukowe.
+
+Struktura: szerokoe > glebokoe, max 3-4 poziomy, duzo cross-referencji (myslenie w sieci), miesza radialny z flow (INBOX->DISCOVERY->PLAN->BUILD), pytania jako wezly, living document.
+
+Swiat mentalny: PFC (meta-uwaga), WAY MODE (KALIBRACJA/GO), KRYSTALIZACJA (metodologia), Letta+agenci (stack), ANTIGRAVITY (eksperymenty), Sales vs AI Dev (napiecie).
+
+Przepis Mapify: mode=prompt, language=pl, temat CAPS jako centrum, 3-6 galezi, 2-3 podgalezi, jego slownictwo, szeroko nie gleboko.
