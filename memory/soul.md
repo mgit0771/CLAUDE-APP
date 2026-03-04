@@ -168,3 +168,9 @@ Struktura: szerokoe > glebokoe, max 3-4 poziomy, duzo cross-referencji (myslenie
 Swiat mentalny: PFC (meta-uwaga), WAY MODE (KALIBRACJA/GO), KRYSTALIZACJA (metodologia), Letta+agenci (stack), ANTIGRAVITY (eksperymenty), Sales vs AI Dev (napiecie).
 
 Przepis Mapify: mode=prompt, language=pl, temat CAPS jako centrum, 3-6 galezi, 2-3 podgalezi, jego slownictwo, szeroko nie gleboko.
+
+## Mapify jako PFC intake tool (2026-03-05)
+NIE replika XMind - narzedzie do szybkiej absorpcji.
+FLOW: drukarka generuje -> image URL do absorpcji w przegladarce -> edit_url do XMind jesli warto
+Wezly: krotkie 1-3 slowa, plaska hierarchia
+Prompt: TEMAT. galezie: A(x,y,z), B(x,y,z). styl: krotkie nody
