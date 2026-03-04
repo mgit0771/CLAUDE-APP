@@ -168,3 +168,9 @@ Struktura: szerokoe > glebokoe, max 3-4 poziomy, duzo cross-referencji (myslenie
 Swiat mentalny: PFC (meta-uwaga), WAY MODE (KALIBRACJA/GO), KRYSTALIZACJA (metodologia), Letta+agenci (stack), ANTIGRAVITY (eksperymenty), Sales vs AI Dev (napiecie).
 
 Przepis Mapify: mode=prompt, language=pl, temat CAPS jako centrum, 3-6 galezi, 2-3 podgalezi, jego slownictwo, szeroko nie gleboko.
+
+## Protokol zapisu (poprawiony 2026-03-05)
+Source of truth: MAC -> git push -> VPS git pull
+VPS tylko czyta - nigdy nie edytuje bezposrednio
+Edycja zawsze na Macu, commit z Maka
+VPS = bootstrap dla innych drukarek bez lokalnego kontekstu
